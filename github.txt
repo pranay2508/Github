@@ -1,0 +1,16 @@
+
+// New project to be inserted 
+
+1. git init   => to initialise 
+2. git add .
+3. git commit -m"."  // here . is the message you want to be inserted 
+4. git branch -m main 
+5. git remote add origin https://github.com/pranay2508/Github.git
+6. git push -u origin main
+
+
+// updating the new project 
+
+1. git add .
+2. git commit -m "." // . is message
+3. git push 
