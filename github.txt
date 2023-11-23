@@ -31,3 +31,10 @@ You can solve this by -
 4. git branch -D tmp
 This will add all the files to the repositary 
 
+// You have to follow this step only once after that you can do basics to update the files to github 
+1. git add .
+2. git commit -m "." // . is message
+3. git push 
+
+
+------------------------------------------------------------------------------------------------------------------------------
